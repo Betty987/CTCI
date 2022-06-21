@@ -1,2 +1,2 @@
 # CTCI
-Cracking the coding interview
+These are questions I solved from the book "Cracking the coding interview"
